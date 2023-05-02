@@ -1,11 +1,25 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.477c8518.js",
-    "static/media/logo.png": "/portfolio/static/media/logo.0597ef6d6d5672bd52f1.png",
+    "main.css": "/portfolio/static/css/main.5e0f26a3.css",
+    "main.js": "/portfolio/static/js/main.60c6c070.js",
+    "static/media/wallpaper.png": "/portfolio/static/media/wallpaper.04a52f300b1fbda71564.png",
+    "static/media/github-hover.svg": "/portfolio/static/media/github-hover.41e8ea5facb5374ff8ac8a73e6a66dca.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.c2c372321c185d2129a6a3c1a0f2ab78.svg",
+    "static/media/linked-hover.svg": "/portfolio/static/media/linked-hover.0d76f0113eeca30acedf0198b6f02dac.svg",
+    "static/media/linked.svg": "/portfolio/static/media/linked.418ec4c16a43f6aa32c6081edbb05d3f.svg",
+    "static/media/leafleft.svg": "/portfolio/static/media/leafleft.b81d970bad8c71d61ac32753aad39a61.svg",
+    "static/media/close.svg": "/portfolio/static/media/close.1752cd84fec447caae68427797c36216.svg",
+    "static/media/phone-hover.svg": "/portfolio/static/media/phone-hover.2ee8be9f4a63cf60f8cad92d82c982c4.svg",
+    "static/media/phone.svg": "/portfolio/static/media/phone.4be6aa0e6b75c5ae1bb8fc704a47b71e.svg",
+    "static/media/email-hover.svg": "/portfolio/static/media/email-hover.5410e1dae113bcf30b288c00dca2f62b.svg",
+    "static/media/email.svg": "/portfolio/static/media/email.cdc2e0a8a584717c1b4b8ad91b50753c.svg",
     "index.html": "/portfolio/index.html",
-    "main.477c8518.js.map": "/portfolio/static/js/main.477c8518.js.map"
+    "static/media/menu.svg": "/portfolio/static/media/menu.b4c40a7dbf11a29fc337f9e440f4ce64.svg",
+    "main.5e0f26a3.css.map": "/portfolio/static/css/main.5e0f26a3.css.map",
+    "main.60c6c070.js.map": "/portfolio/static/js/main.60c6c070.js.map"
   },
   "entrypoints": [
-    "static/js/main.477c8518.js"
+    "static/css/main.5e0f26a3.css",
+    "static/js/main.60c6c070.js"
   ]
 }
